@@ -1,0 +1,4 @@
+src/amr_description/meshes/base_link.STL
+build/*
+install/*
+log/*
